@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f4f6f8; font-family: -apple-system, Segoe UI, Roboto, sans-serif; }
+table { font-size: 14px; }
+th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid #eee; }
+input, select { padding: 0.6rem; border: 1px solid #ccc; border-radius: 4px; }
